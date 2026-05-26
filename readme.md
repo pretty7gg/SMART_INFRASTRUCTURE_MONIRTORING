@@ -32,3 +32,6 @@ python dashboard/app.py
 
 ## Terminal Monitoring
 ![Terminal](screenshots/terminal.png)
+
+## Dashboard Monitoring
+![Dashboard](screenshots/dashboard.png)
