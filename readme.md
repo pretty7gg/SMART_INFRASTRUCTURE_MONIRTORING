@@ -29,3 +29,6 @@ python main.py
 Run dashboard:
 
 python dashboard/app.py
+
+## Terminal Monitoring
+![Terminal](screenshots/terminal.png)
