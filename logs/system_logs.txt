@@ -1079,3 +1079,165 @@ CPU Usage: 15.0%
 Memory Usage: 81.0%
 
 HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 8.4%
+Memory Usage: 81.8%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 11.0%
+Memory Usage: 80.1%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 3.0%
+Memory Usage: 80.2%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 7.7%
+Memory Usage: 80.4%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 14.4%
+Memory Usage: 81.8%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 12.5%
+Memory Usage: 81.7%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 31.4%
+Memory Usage: 82.8%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 14.1%
+Memory Usage: 81.4%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 11.1%
+Memory Usage: 81.2%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 20.9%
+Memory Usage: 80.8%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 23.9%
+Memory Usage: 82.0%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 24.3%
+Memory Usage: 83.8%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 6.6%
+Memory Usage: 83.0%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 4.9%
+Memory Usage: 80.9%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 18.1%
+Memory Usage: 80.8%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 18.0%
+Memory Usage: 82.6%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 9.3%
+Memory Usage: 82.1%
+
+HIGH MEMORY USAGE
+
+==========================
+SMART INFRA MONITOR
+==========================
+
+CPU Usage: 17.9%
+Memory Usage: 81.9%
+
+HIGH MEMORY USAGE
